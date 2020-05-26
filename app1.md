@@ -16,6 +16,27 @@
 
 <br/>
 
+### 03. Project Structure
+
+<br/>
+
+### 04. Generating Random Data
+
+    $ npm init -y
+    $ npm install --save faker
+
+<br/>
+
+### 05. Type Definition Files
+
+    $ npm install --save @types/faker
+
+<br/>
+
+### 06. Using Type Definition Files
+
+<br/>
+
 ---
 
 <br/>
