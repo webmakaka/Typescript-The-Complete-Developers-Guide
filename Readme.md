@@ -2,9 +2,9 @@
 
 <br/>
 
-### [app1](./app1.md)
+### [Google Map](./app1.md)
 
-### [app2](./app2.md)
+### [Sorting App](./app2.md)
 
 <br/>
 

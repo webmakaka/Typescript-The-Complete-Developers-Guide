@@ -51,6 +51,30 @@
 
 <br/>
 
+### 07. Two Huge Issues
+
+<br/>
+
+### 08. Typescript is Really Smart
+
+<br/>
+
+### 09. Type Guards
+
+<br/>
+
+### 10. Why is This Bad
+
+<br/>
+
+### 11. Extracting Key Logic
+
+<br/>
+
+### 12. Separating Swapping and Comparison
+
+<br/>
+
 ---
 
 <br/>
