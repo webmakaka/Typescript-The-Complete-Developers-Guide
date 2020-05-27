@@ -1,11 +1,7 @@
-interface Sortable {
-  length: number;
-  compare(leftIndex: number, rightIndex: number): boolean;
-  swap(leftIndex: number, rightIndex: number): void;
-}
+import { SortableInterface } from './SortableInterface';
 
 export class Sorter {
-  constructor(public collection: Sortable) {}
+  constructor(public collection: SortableInterface) {}
 
   sort(): void {
     const { length } = this.collection;
