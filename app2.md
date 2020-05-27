@@ -35,6 +35,22 @@
 
 <br/>
 
+### 04. A Simple Sorting Algorithm
+
+<br/>
+
+### 05. Sorter Scaffolding
+
+<br/>
+
+### 06. Sorting Implementation
+
+<br/>
+
+![Application](/img/pic-02-01.png?raw=true)
+
+<br/>
+
 ---
 
 <br/>
