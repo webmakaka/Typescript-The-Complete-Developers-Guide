@@ -75,6 +75,18 @@
 
 <br/>
 
+### 13. The Big Reveal
+
+<br/>
+
+### 14. Interface Definition
+
+<br/>
+
+### 15. Sorting Arbitrary Collections
+
+<br/>
+
 ---
 
 <br/>
