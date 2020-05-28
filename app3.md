@@ -58,6 +58,14 @@
 
 <br/>
 
+### 11. Data Types
+
+<br/>
+
+![Application](/img/pic-03-03.png?raw=true)
+
+<br/>
+
 ---
 
 <br/>
