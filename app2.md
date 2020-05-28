@@ -95,6 +95,26 @@
 
 <br/>
 
+### 19. Integrating the Sort Method
+
+<br/>
+
+### 20. Issues with Inheritance
+
+<br/>
+
+### 21. Abstract Classes
+
+<br/>
+
+### 22. Why Use Abstract Classes
+
+<br/>
+
+### 23. Solving All Issues with Abstract Classes
+
+<br/>
+
 ---
 
 <br/>

@@ -1,4 +1,5 @@
 import { SortableInterface } from './SortableInterface';
+import { SorterAbstract } from './SorterAbstract';
 
 class Node {
   next: Node | null = null;
@@ -6,7 +7,7 @@ class Node {
   constructor(public data: number) {}
 }
 
-export class LinkedList implements SortableInterface {
+export class LinkedList extends SorterAbstract implements SortableInterface {
   head: Node | null = null;
 
   get length(): number {

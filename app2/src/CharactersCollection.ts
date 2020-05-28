@@ -1,5 +1,11 @@
-export class CharactersCollection {
-  constructor(public data: string) {}
+import { SortableInterface } from './SortableInterface';
+import { SorterAbstract } from './SorterAbstract';
+
+export class CharactersCollection extends SorterAbstract
+  implements SortableInterface {
+  constructor(public data: string) {
+    super();
+  }
 
   get length(): number {
     return this.data.length;

@@ -1,20 +1,23 @@
-import { Sorter } from './Sorter';
+import { SorterAbstract } from './SorterAbstract';
 import { NumbersCollection } from './NumbersCollection';
 import { CharactersCollection } from './CharactersCollection';
 import { LinkedList } from './LinkedList';
 
 console.clear();
 
-// const numbersCollection = new NumbersCollection([10, 3, -5, 0]);
+console.log('Numbers');
 
-// const sorter = new Sorter(numbersCollection);
-// sorter.sort();
-// console.log(numbersCollection.data);
+const numbersCollection = new NumbersCollection([10, 3, -5, 0]);
+numbersCollection.sort();
+console.log(numbersCollection.data);
 
-// const charactersCollection = new CharactersCollection('Xaayb');
-// const sorter = new Sorter(charactersCollection);
-// sorter.sort();
-// console.log(charactersCollection.data);
+console.log('Characters');
+
+const charactersCollection = new CharactersCollection('Xaayb');
+charactersCollection.sort();
+console.log(charactersCollection.data);
+
+console.log('LinkedList');
 
 const linkedList = new LinkedList();
 linkedList.add(500);
@@ -22,6 +25,5 @@ linkedList.add(-10);
 linkedList.add(-3);
 linkedList.add(4);
 
-const sorter = new Sorter(linkedList);
-sorter.sort();
+linkedList.sort();
 linkedList.print();
