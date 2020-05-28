@@ -2,11 +2,19 @@
 
 <br/>
 
-### [Google Map](./app1.md)
+## 11. Reusable Code
 
-### [Sorting App](./app2.md)
+<br/>
 
-### [Soccer Data App (Stats)](./app3.md)
+### 02. Project Setup
+
+    $ npm init -y
+    $ tsc --init
+
+<br/>
+    
+    $ npm install nodemon concurrently
+    $ npm run start
 
 <br/>
 
