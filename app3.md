@@ -42,6 +42,22 @@
 
 <br/>
 
+### 07. Losing Dataset Context
+
+<br/>
+
+### 08. Using Enums
+
+<br/>
+
+### 09. When to Use Enums
+
+<br/>
+
+### 10. Extracting CSV Reading
+
+<br/>
+
 ---
 
 <br/>
