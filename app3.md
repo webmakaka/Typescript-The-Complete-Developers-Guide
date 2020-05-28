@@ -34,6 +34,14 @@
 
 <br/>
 
+### 06. Running an Analysis
+
+<br/>
+
+![Application](/img/pic-03-02.png?raw=true)
+
+<br/>
+
 ---
 
 <br/>
