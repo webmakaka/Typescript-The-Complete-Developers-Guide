@@ -1,8 +1,6 @@
-import { SortableInterface } from './SortableInterface';
 import { SorterAbstract } from './SorterAbstract';
 
-export class CharactersCollection extends SorterAbstract
-  implements SortableInterface {
+export class CharactersCollection extends SorterAbstract {
   constructor(public data: string) {
     super();
   }

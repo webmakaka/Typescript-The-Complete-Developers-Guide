@@ -115,6 +115,14 @@
 
 <br/>
 
+### 24. Interfaces vs Abstract Classes
+
+<br/>
+
+![Application](/img/pic-02-02.png?raw=true)
+
+<br/>
+
 ---
 
 <br/>
