@@ -18,6 +18,22 @@
 
 <br/>
 
+### 04. Type Definition Files - Again!
+
+<br/>
+
+    $ npm install @types/node
+
+<br/>
+
+### 05. Reading CSV Files
+
+<br/>
+
+![Application](/img/pic-03-01.png?raw=true)
+
+<br/>
+
 ---
 
 <br/>
