@@ -1,6 +1,7 @@
 import { MatchReader } from './MatchReader';
 import { CsvFileReader } from './CsvFileReader';
-import { ConsoleReports } from './reportTargets/ConsoleReports';
+import { ConsoleReport } from './reportTargets/ConsoleReport';
+import { HtmlReport } from './reportTargets/HtmlReport';
 import { WinsAnalysis } from './analyzers/WinsAnalysis';
 import { Summary } from './Summary';
 
@@ -13,7 +14,8 @@ matchReader.load();
 
 const summary = new Summary(
   new WinsAnalysis('Man United'),
-  new ConsoleReports()
+  // new ConsoleReports()
+  new HtmlReport()
 );
 
 summary.buildAndPrintReport(matchReader.matches);

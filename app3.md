@@ -174,6 +174,10 @@
 
 <br/>
 
+### 34. Generating HTML Reports
+
+<br/>
+
 ---
 
 <br/>
