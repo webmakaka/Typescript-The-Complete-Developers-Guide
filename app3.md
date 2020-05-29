@@ -86,6 +86,22 @@
 
 <br/>
 
+### 17. Understanding Refactor #1
+
+<br/>
+
+### 18. Creating Abstract Classes
+
+<br/>
+
+### 19. Variable Types with Generics
+
+<br/>
+
+### 20. Applying a Type to a Generic Class
+
+<br/>
+
 ---
 
 <br/>
