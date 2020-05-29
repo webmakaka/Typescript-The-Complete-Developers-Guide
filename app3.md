@@ -102,6 +102,26 @@
 
 <br/>
 
+### 21. Alternate Refactor
+
+<br/>
+
+### 22. Interface-Based Approach
+
+<br/>
+
+### 23. Extracting Match References - Again!
+
+<br/>
+
+### 24. Transforming Data
+
+<br/>
+
+### 25. Updating Reader References
+
+<br/>
+
 ---
 
 <br/>
