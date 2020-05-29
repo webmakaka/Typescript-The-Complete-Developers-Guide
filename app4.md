@@ -24,7 +24,19 @@
 
 <br/>
 
+![Application](/img/pic-04-01.png?raw=true)
+
+<br/>
+
 ### 05. Retrieving User Properties
+
+<br/>
+
+### 06. Optional Interface Properties
+
+<br/>
+
+### 07. An Eventing System
 
 <br/>
 
