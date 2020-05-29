@@ -154,6 +154,26 @@
 
 <br/>
 
+### 29. Goal Moving Forward
+
+<br/>
+
+### 30. A Composition-Based Approach
+
+<br/>
+
+### 31. Implementing an Analyzer Class
+
+<br/>
+
+### 32. Building the Reporter
+
+<br/>
+
+### 33. Putting It All Together
+
+<br/>
+
 ---
 
 <br/>
