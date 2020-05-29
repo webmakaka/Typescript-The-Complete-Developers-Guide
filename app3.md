@@ -122,6 +122,38 @@
 
 <br/>
 
+### 26. Inheritance vs Composition
+
+<br/>
+
+![Application](/img/pic-03-04.png?raw=true)
+
+<br/>
+
+![Application](/img/pic-03-05.png?raw=true)
+
+<br/>
+
+![Application](/img/pic-03-06.png?raw=true)
+
+<br/>
+
+### 27. More on Inheritance vs Composition
+
+<br/>
+
+### 28. A Huge Misconception Around Composition
+
+<br/>
+
+### 29. Goal Moving Forward
+
+<br/>
+
+![Application](/img/pic-03-07.png?raw=true)
+
+<br/>
+
 ---
 
 <br/>
