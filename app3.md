@@ -66,6 +66,26 @@
 
 <br/>
 
+### 12. Converting Date Strings to Dates
+
+<br/>
+
+### 13. Converting Row Values
+
+<br/>
+
+### 14. Type Assertions
+
+<br/>
+
+### 15. Describing a Row with a Tuple
+
+<br/>
+
+### 16. Not Done with FileReader Yet!
+
+<br/>
+
 ---
 
 <br/>
