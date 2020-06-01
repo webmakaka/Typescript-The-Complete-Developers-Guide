@@ -60,6 +60,27 @@
 
 <br/>
 
+### 12. Adding JSON Server
+
+<br/>
+
+![Application](/img/pic-04-03.png?raw=true)
+
+<br/>
+
+    $ npm install -g json-server
+
+<br/>
+
+    $ npm install axios
+
+<br/>
+
+    $ npm run start:db
+    $ npm run start:parcel
+
+<br/>
+
 ---
 
 <br/>
