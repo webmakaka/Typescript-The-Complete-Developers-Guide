@@ -40,6 +40,26 @@
 
 <br/>
 
+### 08. Listener Support
+
+<br/>
+
+### 09. Storing Event Listeners
+
+<br/>
+
+![Application](/img/pic-04-02.png?raw=true)
+
+<br/>
+
+### 10. Dynamic Array Creation
+
+<br/>
+
+### 11. Triggering Event Callbacks
+
+<br/>
+
 ---
 
 <br/>
