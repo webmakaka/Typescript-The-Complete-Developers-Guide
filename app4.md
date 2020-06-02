@@ -201,6 +201,30 @@
 
 <br/>
 
+### 38. Composition vs Inheritance...Again!
+
+<br/>
+
+![Application](/img/pic-04-09.png?raw=true)
+
+<br/>
+
+### 39. Extracting a Model Class
+
+<br/>
+
+### 40. Extending the User
+
+<br/>
+
+### 41. Final User Refactor
+
+<br/>
+
+### 42. Model Wrapup
+
+<br/>
+
 ---
 
 <br/>
