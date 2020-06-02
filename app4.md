@@ -81,6 +81,26 @@
 
 <br/>
 
+### 13. Understanding REST Conventions
+
+<br/>
+
+![Application](/img/pic-04-04.png?raw=true)
+
+<br/>
+
+### 14. Adding Fetch Functionality
+
+<br/>
+
+### 15. Successfully Fetching Model Data
+
+<br/>
+
+### 16. Saving User Data
+
+<br/>
+
 ---
 
 <br/>
