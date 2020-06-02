@@ -101,6 +101,106 @@
 
 <br/>
 
+### 17. Refactoring with Composition
+
+<br/>
+
+### 18. Re-Integrating Eventing
+
+<br/>
+
+### 19. Composition with Nested Objects
+
+<br/>
+
+### 20. A More Complicated Extraction
+
+<br/>
+
+### 21. Options for Adapting Sync
+
+<br/>
+
+![Application](/img/pic-04-05.png?raw=true)
+
+<br/>
+
+### 22. Refactoring Sync
+
+<br/>
+
+### 23. Generic Constraints Around Sync
+
+<br/>
+
+### 24. Connecting Sync Back to User
+
+<br/>
+
+### 25. Optional Properties
+
+<br/>
+
+### 26. Extracting an Attributes Class
+
+<br/>
+
+### 27. The Get Method's Shortcoming
+
+<br/>
+
+### 28. Two Important Rules
+
+<br/>
+
+### 29. An Advanced Generic Constraint
+
+<br/>
+
+![Application](/img/pic-04-06.png?raw=true)
+
+<br/>
+
+### 30. Re-Integrating Attributes
+
+<br/>
+
+### 31. Composition is Delegation
+
+<br/>
+
+### 32. Reminder on Accessors
+
+<br/>
+
+![Application](/img/pic-04-07.png?raw=true)
+
+<br/>
+
+![Application](/img/pic-04-08.png?raw=true)
+
+<br/>
+
+### 33. Passthrough Methods
+
+<br/>
+
+### 34. A Context Issue
+
+<br/>
+
+### 35. Setting Data While Triggering
+
+<br/>
+
+### 36. Fetching User Data
+
+<br/>
+
+### 37. Saving Data
+
+<br/>
+
 ---
 
 <br/>
