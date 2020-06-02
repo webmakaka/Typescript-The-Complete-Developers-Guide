@@ -1,6 +1,5 @@
 import { AxiosResponse, AxiosPromise } from 'axios';
 
-
 type Callback = () => void;
 
 interface ModelAttributesInterface<T> {
@@ -30,17 +29,9 @@ export class Model<T extends HasIdInterface> {
     private sync: SyncInterface<T>
   ) {}
 
-  get on() {
-    return this.events.on;
-  }
-
-  get trigger() {
-    return this.events.trigger;
-  }
-
-  get get() {
-    return this.attributes.get;
-  }
+  on = this.events.on;
+  trigger = this.events.trigger;
+  get = this.attributes.get;
 
   set(update: T): void {
     this.attributes.set(update);

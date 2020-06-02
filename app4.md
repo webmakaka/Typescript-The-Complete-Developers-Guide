@@ -225,6 +225,10 @@
 
 <br/>
 
+### 43. Shortened Passthrough Methods
+
+<br/>
+
 ---
 
 <br/>
