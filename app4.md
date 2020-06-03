@@ -285,6 +285,22 @@
 
 <br/>
 
+### 53. Defining an Events Map
+
+<br/>
+
+![Application](/img/pic-04-15.png?raw=true)
+
+<br/>
+
+### 54. Binding Event Handlers
+
+<br/>
+
+![Application](/img/pic-04-16.png?raw=true)
+
+<br/>
+
 ---
 
 <br/>
