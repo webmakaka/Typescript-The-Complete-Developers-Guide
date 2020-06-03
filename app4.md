@@ -253,6 +253,38 @@
 
 <br/>
 
+### 49. View Classes
+
+<br/>
+
+![Application](/img/pic-04-11.png?raw=true)
+
+<br/>
+
+![Application](/img/pic-04-12.png?raw=true)
+
+<br/>
+
+### 50. Building the UserForm
+
+<br/>
+
+![Application](/img/pic-04-13.png?raw=true)
+
+<br/>
+
+### 51. The UserForm's Render Method
+
+<br/>
+
+### 52. Rendering HTML
+
+<br/>
+
+![Application](/img/pic-04-14.png?raw=true)
+
+<br/>
+
 ---
 
 <br/>
