@@ -301,6 +301,18 @@
 
 <br/>
 
+![Application](/img/pic-04-17.png?raw=true)
+
+<br/>
+
+### 55. Adding Model Properties
+
+<br/>
+
+![Application](/img/pic-04-18.png?raw=true)
+
+<br/>
+
 ---
 
 <br/>
