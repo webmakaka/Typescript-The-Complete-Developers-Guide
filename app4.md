@@ -229,6 +229,22 @@
 
 <br/>
 
+### 44. Users Collection
+
+<br/>
+
+### 45. Implementing a Users Collection
+
+<br/>
+
+### 46. Parsing User JSON
+
+<br/>
+
+![Application](/img/pic-04-10.png?raw=true)
+
+<br/>
+
 ---
 
 <br/>
