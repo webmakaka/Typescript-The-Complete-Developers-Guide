@@ -245,6 +245,14 @@
 
 <br/>
 
+### 47. Generic User Collection
+
+<br/>
+
+### 48. A Class Method for Collections
+
+<br/>
+
 ---
 
 <br/>
