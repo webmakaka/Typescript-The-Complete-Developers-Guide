@@ -391,6 +391,14 @@
 
 <br/>
 
+### 69. View Nesting
+
+<br/>
+
+![Application](/img/pic-04-24.png?raw=true)
+
+<br/>
+
 ---
 
 <br/>
