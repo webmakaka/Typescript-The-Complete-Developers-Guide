@@ -343,6 +343,18 @@
 
 <br/>
 
+### 61. Reusable View Logic
+
+<br/>
+
+![Application](/img/pic-04-21.png?raw=true)
+
+<br/>
+
+### 62. Extracting a View Class
+
+<br/>
+
 ---
 
 <br/>
