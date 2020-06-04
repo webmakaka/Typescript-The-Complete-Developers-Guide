@@ -1,9 +1,9 @@
+import { Model } from '../models/Model';
+
 type Callback = () => void;
 
-import { User } from '../models/User';
-
-export abstract class ViewAbstract {
-  constructor(public parent: Element, public model: User) {
+export abstract class ViewAbstract<T extends Model<K>, K> {
+  constructor(public parent: Element, public model: T) {
     this.bindModel();
   }
 

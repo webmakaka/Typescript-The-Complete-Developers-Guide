@@ -1,8 +1,10 @@
+import { User } from '../models/User';
+import { UserPropsInterface } from '../models/UserPropsInterface';
 import { ViewAbstract } from './ViewAbstract';
 
 type Callback = () => void;
 
-export class UserForm extends ViewAbstract {
+export class UserForm extends ViewAbstract<User, UserPropsInterface> {
   eventsMap(): { [key: string]: Callback } {
     return {
       'click:.set-age': this.onSetAgeClick,
