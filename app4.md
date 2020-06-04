@@ -399,6 +399,22 @@
 
 <br/>
 
+### 70. Collection Views
+
+<br/>
+
+![Application](/img/pic-04-25.png?raw=true)
+
+<br/>
+
+### 71. CollectionView Implementation
+
+<br/>
+
+![Application](/img/pic-04-26.png?raw=true)
+
+<br/>
+
 ---
 
 <br/>
