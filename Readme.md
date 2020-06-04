@@ -16,6 +16,8 @@ https://github.com/StephenGrider/typescriptcasts
 
 ### [Web Framework](./app4.md)
 
+### [Express + Typescript Integration](./app5.md)
+
 <br/>
 
 ---
