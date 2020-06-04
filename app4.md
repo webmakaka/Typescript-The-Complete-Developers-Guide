@@ -313,6 +313,22 @@
 
 <br/>
 
+### 56. Binding Events on Class Name
+
+<br/>
+
+### 57. Adding Methods to the User
+
+<br/>
+
+### 58. Re-Rendering on Model Change
+
+<br/>
+
+![Application](/img/pic-04-19.png?raw=true)
+
+<br/>
+
 ---
 
 <br/>
