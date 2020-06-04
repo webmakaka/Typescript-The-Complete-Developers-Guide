@@ -359,6 +359,38 @@
 
 <br/>
 
+### 64. Saving Data From a View
+
+<br/>
+
+### 65. UserEdit and UserShow
+
+<br/>
+
+### 66. Nesting with Regions
+
+<br/>
+
+![Application](/img/pic-04-21.png?raw=true)
+
+<br/>
+
+### 67. Mapping Regions
+
+<br/>
+
+![Application](/img/pic-04-22.png?raw=true)
+
+<br/>
+
+### 68. Testing Region Mapping
+
+<br/>
+
+![Application](/img/pic-04-23.png?raw=true)
+
+<br/>
+
 ---
 
 <br/>
