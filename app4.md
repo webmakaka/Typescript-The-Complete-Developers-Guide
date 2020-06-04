@@ -337,6 +337,12 @@
 
 <br/>
 
+### 60. Strict Null Checks
+
+    $ tsc --init
+
+<br/>
+
 ---
 
 <br/>
