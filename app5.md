@@ -2,7 +2,7 @@
 
 <br/>
 
-## Express + Typescript Integration
+## 14. Express + Typescript Integration
 
 <br/>
 
@@ -39,6 +39,27 @@
 <br/>
 
     $ npm run start
+
+<br/>
+
+### 04. Basic Routes with Express
+
+<br/>
+
+    $ npm install express body-parser cookie-session
+    $ npm install @types/express @types/body-parser @types/cookie-session
+
+<br/>
+
+### 05. Using an Express Routers
+
+<br/>
+
+### 06. Parsing Form Bodies
+
+<br/>
+
+![Application](/img/pic-06-01.png?raw=true)
 
 <br/>
 
