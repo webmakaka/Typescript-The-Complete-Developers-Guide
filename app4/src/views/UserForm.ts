@@ -4,7 +4,7 @@ type Callback = () => void;
 
 export class UserForm {
   constructor(public parent: Element, public model: User) {
-   this.bindModel();
+    this.bindModel();
   }
 
   bindModel(): void {
@@ -16,12 +16,24 @@ export class UserForm {
   eventsMap(): { [key: string]: Callback } {
     return {
       'click:.set-age': this.onSetAgeClick,
+      'click:.set-name': this.onSetNameClick,
     };
   }
 
-  onSetAgeClick = () : void {
+  onSetNameClick = (): void => {
+    console.log('onSetNameClci');
+    const input = this.parent.querySelector('input');
+
+    const name = input.value;
+
+    console.log(name);
+
+    this.model.set({ name });
+  };
+
+  onSetAgeClick = (): void => {
     this.model.setRandomAge();
-  }
+  };
 
   template(): string {
     return `
@@ -30,7 +42,7 @@ export class UserForm {
             <div>User name: ${this.model.get('name')}</div>
             <div>User age: ${this.model.get('age')}</div>
             <input />
-            <button>Click Me</button>
+            <button class="set-name">Change Name</button>
             <button class="set-age">Set Random Age</button>
         </div>
       `;
@@ -49,7 +61,6 @@ export class UserForm {
   }
 
   render(): void {
-
     this.parent.innerHTML = '';
 
     const templateElement = document.createElement('template');

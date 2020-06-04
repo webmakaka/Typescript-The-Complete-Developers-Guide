@@ -329,6 +329,14 @@
 
 <br/>
 
+### 59. Reading Input Text
+
+<br/>
+
+![Application](/img/pic-04-20.png?raw=true)
+
+<br/>
+
 ---
 
 <br/>

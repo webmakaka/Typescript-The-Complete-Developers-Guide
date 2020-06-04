@@ -1,6 +1,12 @@
 # [Stephen Grider] Typescript: The Complete Developer's Guide [2020, ENG]
 
 <br/>
+**Original src:**  
+https://github.com/StephenGrider/typescriptcasts
+
+<br/>
+
+## Development step by step
 
 ### [Google Map](./app1.md)
 
