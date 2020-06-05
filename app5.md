@@ -75,6 +75,18 @@
 
 <br/>
 
+### 10. Wiring Up Sessions
+
+<br/>
+
+### 11. Checking Login Status
+
+<br/>
+
+![Application](/img/pic-06-02.png?raw=true)
+
+<br/>
+
 ---
 
 <br/>
