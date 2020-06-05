@@ -87,6 +87,26 @@
 
 <br/>
 
+### 11. Checking Login Status
+
+<br/>
+
+### 12. Logging Out
+
+<br/>
+
+### 13. Protecting Routes
+
+<br/>
+
+![Application](/img/pic-06-03.png?raw=true)
+
+<br/>
+
+### 14. A Closer Integration
+
+<br/>
+
 ---
 
 <br/>
