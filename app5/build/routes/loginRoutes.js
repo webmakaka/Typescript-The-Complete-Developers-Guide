@@ -8,5 +8,10 @@ router.get('/login', function (req, res) {
 });
 router.post('/login', function (req, res) {
     var _a = req.body, email = _a.email, password = _a.password;
-    return res.send({ email: email, password: password });
+    if (email) {
+        return res.send({ email: email, password: password });
+    }
+    else {
+        return res.send('You must provide an email');
+    }
 });

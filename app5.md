@@ -63,6 +63,18 @@
 
 <br/>
 
+### 07. Why Doesn't Express Play Nicely with TS
+
+<br/>
+
+### 08. Issues with Type Definition Files
+
+<br/>
+
+### 09. Dealing with Poor Type Defs
+
+<br/>
+
 ---
 
 <br/>
