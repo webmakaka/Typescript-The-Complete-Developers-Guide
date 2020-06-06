@@ -122,6 +122,14 @@ http://localhost:3000/auth/login
 
 <br/>
 
+### 21. Using Property Descriptors for Type Checking
+
+<br/>
+
+### 22. App Wrapup
+
+<br/>
+
 ---
 
 <br/>
