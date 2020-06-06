@@ -118,6 +118,10 @@ http://localhost:3000/auth/login
 
 <br/>
 
+### 20. Fixing Routes
+
+<br/>
+
 ---
 
 <br/>

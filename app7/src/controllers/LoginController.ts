@@ -22,6 +22,12 @@ class LoginController {
     );
   }
 
+  @get('/logout')
+  getLogout(req: Request, res: Response) {
+    req.session = undefined;
+    return res.redirect('/');
+  }
+
   @post('/login')
   @bodyValidator('email', 'password')
   postLogin(req: Request, res: Response) {
