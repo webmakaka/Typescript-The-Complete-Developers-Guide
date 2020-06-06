@@ -86,6 +86,14 @@ http://localhost:3000/auth/login
 
 <br/>
 
+### 12. Defining a RouteBinder
+
+<br/>
+
+### 13. Closed Method Sets with Enums
+
+<br/>
+
 ---
 
 <br/>
