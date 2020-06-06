@@ -22,18 +22,6 @@ router.get('/logout', function (req, res) {
     req.session = undefined;
     return res.redirect('/');
 });
-router.post('/login', function (req, res) {
-    var _a = req.body, email = _a.email, password = _a.password;
-    if (email && password && email === 'hi@hi.com' && password === 'password') {
-        req.session = {
-            loggedIn: true,
-        };
-        return res.redirect('/');
-    }
-    else {
-        return res.send('Invalid email or password');
-    }
-});
 router.get('/protected', requreAuth, function (req, res) {
     res.send('Welcome to protected route, logged in user');
 });

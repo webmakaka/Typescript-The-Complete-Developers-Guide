@@ -5,4 +5,5 @@ var MetadataKeysEnum;
     MetadataKeysEnum["method"] = "method";
     MetadataKeysEnum["path"] = "path";
     MetadataKeysEnum["middleware"] = "middleware";
+    MetadataKeysEnum["validator"] = "validator";
 })(MetadataKeysEnum = exports.MetadataKeysEnum || (exports.MetadataKeysEnum = {}));

@@ -1,9 +1,5 @@
 import { Router, Request, Response, NextFunction } from 'express';
 
-interface RequestWithBodyInterface extends Request {
-  body: { [key: string]: string | undefined };
-}
-
 const router = Router();
 
 function requreAuth(req: Request, res: Response, next: NextFunction) {
@@ -36,20 +32,6 @@ router.get('/', (req: Request, res: Response) => {
 router.get('/logout', (req: Request, res: Response) => {
   req.session = undefined;
   return res.redirect('/');
-});
-
-router.post('/login', (req: RequestWithBodyInterface, res: Response) => {
-  const { email, password } = req.body;
-
-  if (email && password && email === 'hi@hi.com' && password === 'password') {
-    req.session = {
-      loggedIn: true,
-    };
-
-    return res.redirect('/');
-  } else {
-    return res.send('Invalid email or password');
-  }
 });
 
 router.get('/protected', requreAuth, (req: Request, res: Response) => {

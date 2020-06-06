@@ -106,6 +106,18 @@ http://localhost:3000/auth/login
 
 <br/>
 
+### 17. Body Validators
+
+<br/>
+
+### 18. Automated Validation
+
+<br/>
+
+### 19. Testing Automated Validation
+
+<br/>
+
 ---
 
 <br/>
