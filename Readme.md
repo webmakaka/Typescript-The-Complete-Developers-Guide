@@ -18,6 +18,10 @@ https://github.com/StephenGrider/typescriptcasts
 
 ### [Express + Typescript Integration](./app5.md)
 
+### [Decorators](./app6.md)
+
+### [Advanced Express and TS Integration](./app7.md)
+
 <br/>
 
 ---

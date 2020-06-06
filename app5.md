@@ -59,7 +59,7 @@
 
 <br/>
 
-![Application](/img/pic-06-01.png?raw=true)
+![Application](/img/pic-05-02.png?raw=true)
 
 <br/>
 
@@ -83,7 +83,7 @@
 
 <br/>
 
-![Application](/img/pic-06-02.png?raw=true)
+![Application](/img/pic-05-03.png?raw=true)
 
 <br/>
 
@@ -99,11 +99,19 @@
 
 <br/>
 
-![Application](/img/pic-06-03.png?raw=true)
+![Application](/img/pic-05-04.png?raw=true)
 
 <br/>
 
 ### 14. A Closer Integration
+
+<br/>
+
+### 15. The Refactoring Process
+
+<br/>
+
+### 16. Prototypes Reminder
 
 <br/>
 
