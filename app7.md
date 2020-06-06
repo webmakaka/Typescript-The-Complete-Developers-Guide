@@ -53,6 +53,33 @@ https://github.com/StephenGrider/typescriptcasts/blob/master/features/metadata.t
 
 ### 07. Let's Refactor!
 
+    $ npm run start
+
+<br/>
+
+### 08. The 'Get' Decorator
+
+**tsconfig.json**
+
+```
+"experimentalDecorators": true,
+"emitDecoratorMetadata": true,
+```
+
+<br/>
+
+    $ npm install reflect-metadata
+
+<br/>
+
+### 09. The Controller Decorator
+
+<br/>
+
+### 10. Proof of Concept
+
+http://localhost:3000/auth/login
+
 <br/>
 
 ---

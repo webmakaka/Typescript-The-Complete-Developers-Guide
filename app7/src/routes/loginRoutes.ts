@@ -1,4 +1,4 @@
-import { Router, Request, Response, NextFunction, response } from 'express';
+import { Router, Request, Response, NextFunction } from 'express';
 
 interface RequestWithBodyInterface extends Request {
   body: { [key: string]: string | undefined };
@@ -31,24 +31,6 @@ router.get('/', (req: Request, res: Response) => {
     </div>
   `);
   }
-});
-
-router.get('/login', (req: Request, res: Response) => {
-  return res.send(
-    `
-      <form method="POST">
-        <div>
-          <label>Email</label>
-          <input name="email" />
-        </div>
-        <div>
-          <label>Password</label>
-          <input name="password" type="password" />
-        </div>
-        <button>Submit</button>
-      </form>
-    `
-  );
 });
 
 router.get('/logout', (req: Request, res: Response) => {
