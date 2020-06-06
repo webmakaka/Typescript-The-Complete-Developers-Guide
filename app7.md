@@ -98,6 +98,14 @@ http://localhost:3000/auth/login
 
 <br/>
 
+### 15. The 'Use' Decorator
+
+<br/>
+
+### 16. Testing Use
+
+<br/>
+
 ---
 
 <br/>
