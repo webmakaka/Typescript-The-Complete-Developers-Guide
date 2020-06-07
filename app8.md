@@ -84,6 +84,14 @@
 
 <br/>
 
+### 17. Adding in Delete Functionality
+
+<br/>
+
+### 18. Breaking Out Action Creators
+
+<br/>
+
 ---
 
 <br/>
