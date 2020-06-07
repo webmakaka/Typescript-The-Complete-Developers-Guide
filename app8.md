@@ -64,6 +64,10 @@
 
 <br/>
 
+### 13. A Reducer with Enums
+
+<br/>
+
 ---
 
 <br/>
