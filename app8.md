@@ -92,6 +92,14 @@
 
 <br/>
 
+### 19. Expressing Actions as Type Unions
+
+<br/>
+
+### 20. Type Guards in Reducers
+
+<br/>
+
 ---
 
 <br/>
