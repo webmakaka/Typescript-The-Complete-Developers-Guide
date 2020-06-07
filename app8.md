@@ -56,6 +56,10 @@
 
 <br/>
 
+### 11. Action Types Enum
+
+<br/>
+
 ---
 
 <br/>
