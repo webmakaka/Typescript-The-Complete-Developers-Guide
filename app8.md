@@ -20,6 +20,12 @@
 
 <br/>
 
+### 04. Simple Components
+
+    $ npm start
+
+<br/>
+
 ---
 
 <br/>
