@@ -46,6 +46,12 @@
 
 <br/>
 
+### 09. Redux Setup
+
+    $ npm install redux react-redux axios redux-thunk @types/react-redux
+
+<br/>
+
 ---
 
 <br/>
