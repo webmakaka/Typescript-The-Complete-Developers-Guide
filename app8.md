@@ -76,6 +76,14 @@
 
 <br/>
 
+### 16. Rendering a List
+
+<br/>
+
+![Application](/img/pic-08-02.png?raw=true)
+
+<br/>
+
 ---
 
 <br/>
