@@ -26,6 +26,22 @@
 
 <br/>
 
+### 05. Interfaces with Props
+
+<br/>
+
+### 06. Handling Component State
+
+<br/>
+
+![Application](/img/pic-08-01.png?raw=true)
+
+<br/>
+
+### 07. Confusing Component State!
+
+<br/>
+
 ---
 
 <br/>
