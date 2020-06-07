@@ -100,6 +100,22 @@
 
 <br/>
 
+### 21. Wiring up deleteToDo Action
+
+<br/>
+
+### 22. Again, Type Definition Files
+
+<br/>
+
+### 23. Tracking Loading with Component State
+
+<br/>
+
+### 24. App Wrapup
+
+<br/>
+
 ---
 
 <br/>
