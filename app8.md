@@ -72,6 +72,10 @@
 
 <br/>
 
+### 15. Connecting a Component to Redux
+
+<br/>
+
 ---
 
 <br/>
