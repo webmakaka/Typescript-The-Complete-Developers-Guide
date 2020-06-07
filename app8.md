@@ -42,6 +42,10 @@
 
 <br/>
 
+### 08. Functional Components
+
+<br/>
+
 ---
 
 <br/>
