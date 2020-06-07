@@ -68,6 +68,10 @@
 
 <br/>
 
+### 14. Validating Store Structure
+
+<br/>
+
 ---
 
 <br/>
