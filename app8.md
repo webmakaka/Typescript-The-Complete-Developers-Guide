@@ -52,6 +52,10 @@
 
 <br/>
 
+### 10. Action Creators with Typescript
+
+<br/>
+
 ---
 
 <br/>
