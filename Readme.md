@@ -1,6 +1,7 @@
 # [Stephen Grider] Typescript: The Complete Developer's Guide [2020, ENG]
 
 <br/>
+
 **Original src:**  
 https://github.com/StephenGrider/typescriptcasts
 
@@ -21,6 +22,8 @@ https://github.com/StephenGrider/typescriptcasts
 ### [Decorators](./app6.md)
 
 ### [Advanced Express and TS Integration](./app7.md)
+
+### [React and Redux with Typescript](./app8.md)
 
 <br/>
 
